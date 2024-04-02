@@ -10,4 +10,4 @@ Here's what I'm up to:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been producing music using my computer since 2010 :p
 
-[![My Skills](https://skillicons.dev/icons?i=py,react,js,ts,css,tailwind,nextjs,git,html,docker,ableton,mysql,p5js,bash,sklearn,vscode,figma)](skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,react,js,ts,css,tailwind,nextjs,git,html,docker,ableton,mysql,bash,vscode,figma)](skillicons.dev)
