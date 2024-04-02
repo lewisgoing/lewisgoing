@@ -1,4 +1,4 @@
-### Hi, I'm Lewis 👋
+### Hi, I'm Lewis Going👋
 
 Here's what I'm up to:
 
